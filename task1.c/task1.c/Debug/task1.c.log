@@ -1,0 +1,5 @@
+﻿  task1.c.cpp
+C:\Users\Пользователь\source\repos\task1.c\task1.c\task1.c.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Пользователь\source\repos\task1.c\task1.c\task1.c.cpp(14,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Пользователь\source\repos\task1.c\task1.c\task1.c.cpp(22,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  task1.c.vcxproj -> C:\Users\Пользователь\source\repos\task1.c\Debug\task1.c.exe
