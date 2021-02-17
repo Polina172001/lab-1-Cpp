@@ -1,0 +1,3 @@
+﻿  task3.с.cpp
+C:\Users\Пользователь\source\repos\task3.с\task3.с\task3.с.cpp(10,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  task3.с.vcxproj -> C:\Users\Пользователь\source\repos\task3.с\Debug\task3.с.exe
