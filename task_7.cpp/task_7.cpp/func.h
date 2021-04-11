@@ -1,3 +1,2 @@
-#pragma once
-void f();
-extern double x, y, res;
+void function();
+extern double x, y, result;

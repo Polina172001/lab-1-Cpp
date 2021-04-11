@@ -1,6 +1,4 @@
-﻿// task_7.cpp.cpp 
-
-#include <iostream>
+﻿#include <iostream>
 #include "func.h"
 
 using namespace std;
@@ -8,10 +6,12 @@ using namespace std;
 void main()
 {
 	cout.precision(5);
-	cout << "Input x\n";
+	function();
+	cout << "x = " << x << " y = " << y << "\nf = " << result;
+	cout << "\nInput x = ";
 	cin >> x;
-	cout << "Input y\n";
+	cout << "Input y = ";
 	cin >> y;
-	f();
-	cout << "f = " << res;
+	function();
+	cout << "f = " << result;
 }

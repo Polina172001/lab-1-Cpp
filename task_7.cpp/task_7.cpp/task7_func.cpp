@@ -1,11 +1,9 @@
-#include <iostream>
-#include "func.h"
-using namespace std;
+#include <math.h>
+double result;
+double x = 4;
+double y = 16;
 
-void f(void);
-double x, y, res;
-
-void f(void)
+void function()
 {
-    res = ((x - 1) * sqrt(x)) - ((y - 1) * sqrt(y)) / ((sqrt((pow(x, 3)) * y)) + (x * y) + pow(x, 2) - x);
+    result = ((x - 1) * sqrt(x)) - ((y - 1) * sqrt(y)) / ((sqrt((pow(x, 3)) * y)) + (x * y) + pow(x, 2) - x);
 }
